@@ -2,66 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dairyconsult</title>
-    <link>https://albartcoster.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Dairyconsult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://albartcoster.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go</title>
-      <link>https://albartcoster.github.io/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://albartcoster.github.io/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://albartcoster.github.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://albartcoster.github.io/tags/programming/</link>
+      <link>/tags/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/tags/programming/</guid>
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snijmais</title>
-      <link>https://albartcoster.github.io/tags/snijmais/</link>
+      <link>/tags/snijmais/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://albartcoster.github.io/tags/snijmais/</guid>
+      <guid>/tags/snijmais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>https://albartcoster.github.io/tags/theme/</link>
+      <link>/tags/theme/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/tags/theme/</guid>
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
     

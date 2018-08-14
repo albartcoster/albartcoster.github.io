@@ -2,59 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dairyconsult</title>
-    <link>https://albartcoster.github.io/</link>
+    <link>/</link>
     <description>Recent content on Dairyconsult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://albartcoster.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Verdroogde mais</title>
-      <link>https://albartcoster.github.io/blog/2018/08/14/2018-08-14-verdroogde-mais/</link>
+      <link>/blog/2018/08/14/2018-08-14-verdroogde-mais/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://albartcoster.github.io/blog/2018/08/14/2018-08-14-verdroogde-mais/</guid>
+      <guid>/blog/2018/08/14/2018-08-14-verdroogde-mais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linked post</title>
-      <link>https://albartcoster.github.io/blog/2015/10/02/linked-post/</link>
+      <link>/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/blog/2015/10/02/linked-post/</guid>
+      <guid>/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>https://albartcoster.github.io/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://albartcoster.github.io/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
-      <link>https://albartcoster.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://albartcoster.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description>We zijn er om u te helpen Wilt u graag meer over ons weten? Heeft u een probleem gerelateerd aan voeding of algemeen management van uw melkkoeien? Of wilt u gewoon eens onze mening over het een of ander weten? Voelt u zich dan vrij om contact met ons op te nemen.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://albartcoster.github.io/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://albartcoster.github.io/faq/</guid>
+      <guid>/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
