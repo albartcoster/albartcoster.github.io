@@ -6,10 +6,20 @@
     <description>Recent content on Dairyconsult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rode klaver in rantsoenen</title>
+      <link>/blog/2018/08/16/2018-08-16-rode-klaver-in-rantsoenen/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/08/16/2018-08-16-rode-klaver-in-rantsoenen/</guid>
+      <description>Het onderzoeksproject Legumeplus is een groot europees onderzoek naar teelt en inzet van vlinderbloemige ruwvoergewassen. Een voordeel van vlinderbloemigen is dat ze stikstof uit de lucht fixeren, waardoor veel minder N bemesting nodig is (zie Wit and Rietberg (2015)). Daarnaast hebben sommige vlinderbloemigen zoals rode klaver, sainfoin en rolklaver bevatten bioactieve stoffen die de eiwitbenutting kunnen verbeteren.
+De gewassen Sainfoin en rolklaver bevatten gecondenseerde tannines (niet oplosbare tannines). Deze kunnen eiwit in de pens binden, waardoor het bestendiger wordt.</description>
+    </item>
     
     <item>
       <title>Verdroogde mais</title>
@@ -17,38 +27,36 @@
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/08/14/2018-08-14-verdroogde-mais/</guid>
+      <description>Na weken bijzonder droog weer weten we dat een deel van de maisverdroogd is. Een belangrijke vraag is wanneer deze mais gehakselddient te worden, en hoe.
+In het algemeen geldt dat we eerst zeker moeten zijn dat de mais echtverdroogd is en er geen kans op enig herstel of verdere groei van hetgewas is voor de beslissing tot hakselen wordt genomen. Als het gewasnog bij kan trekken en gedeeltelijk verder kan groeien moet het nietgehakseld worden.</description>
+    </item>
+    
+    <item>
+      <title>Eerste post</title>
+      <link>/blog/2018/08/01/2018-08-01-eerste-post/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/08/01/2018-08-01-eerste-post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Linked post</title>
-      <link>/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Eerste</title>
+      <link>/blog/2018/07/01/2018-07-01-eerste/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>/blog/2018/07/01/2018-07-01-eerste/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>/blog/2015/09/17/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Pensverzuring, endotoxines en gisten</title>
+      <link>/blog/2018/06/22/2018-06-22_pensverzuring/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/blog/2018/06/22/2018-06-22_pensverzuring/</guid>
+      <description>InleidingRecent werd ik gevraagd om een verhaal te houden over bestendigheid vangrondstoffen, en om ook in te gaan op verschijnselen van de dunne mestbij melkkoeien. Er was ook het vermoeden uit dat dunnemest wel eens te maken kan hebben met andere zaken dan pensverzuring,en noemde hij Clostridia.
+Ik wil beginnen met een aantal anecdotes om de verschijnselen, en deverwarring omtrend deze verschijnselen te verklaren. Vervolgensprobeer ik aan de hand van literatuur en ervaringen tot passend modelof verklaring te komen.</description>
     </item>
     
     <item>
