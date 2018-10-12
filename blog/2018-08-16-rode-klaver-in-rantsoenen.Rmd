@@ -1,12 +1,16 @@
 ---
-title: Rode klaver in rantsoenen
-author: Albart Coster
+title: "Rode klaver in rantsoenen"
+author: "Albart Coster"
 date: '2018-08-16'
-slug: rode-klaver-in-rantsoenen
+output: pdf_document
+bibliography: library.bib
 categories: []
-tags: [rode klaver, rantsoen, proteolyse]
-banner: 'img/rode_klaver.jpg'
-bibliography: [library.bib]
+slug: rode-klaver-in-rantsoenen
+tags:
+- rode klaver
+- rantsoen
+- proteolyse
+banner: img/rode_klaver.jpg
 ---
 
 Het onderzoeksproject [Legumeplus](legumeplus.eu) is een groot
